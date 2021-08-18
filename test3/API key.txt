@@ -1,0 +1,3 @@
+AIzaSyCNM02SrWnxEjm4tkVs7V69aGQonI0BlLg
+set GOOGLE_APPLICATION_CREDENTIALS=[C:\pleiades\workspace\test3\src\main\resources\mapgo-318306-dd61caec66a8.json]
+
